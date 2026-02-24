@@ -64,7 +64,7 @@ nav {
 }
 
 .hero-logo {
-  max-width: 300px;
+  max-width: 500px;
   height: auto;
   margin-bottom: 2rem;
   filter: drop-shadow(0 10px 15px rgba(0, 0, 0, 0.1));
